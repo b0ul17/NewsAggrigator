@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be6f7c65-75e2-4476-8163-8869e8f0cf66" name="wtf" url="http://www.whentimefreezes.com">
+        <fileTransfer host="www.whentimefreezes.com" port="21" rootFolder="/news.whentimefreezes.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
